@@ -1,4 +1,5 @@
 # Simple-GUI-FFMPEG
+
 This app is a simple code for convenient using of FFMAPEG and EXIFTOOL.
 Easy convert video, image and sound.
 Convert video (H.264, H.265, and VP9) by CPU and GPU, Rotate, Trim, Change speed, and convert to image and vice versa.
