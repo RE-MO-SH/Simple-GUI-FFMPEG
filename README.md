@@ -22,3 +22,6 @@ In this code is used FFMPEG and EXIFTOOL.
 #EXIFTOOL: https://github.com/exiftool/exiftool
 ![APP](https://github.com/RE-MO-SH/Simple-GUI-FFMPEG/assets/137638879/aeeb2b56-fe0c-4d0e-9586-e916b1b45e69)
 
+DOWNLOAD:
+
+Download Converter.exe in upper box or https://github.com/RE-MO-SH/Simple-GUI-FFMPEG/blob/main/Converter.exe.
