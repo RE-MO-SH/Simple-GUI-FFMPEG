@@ -24,4 +24,4 @@ In this code is used FFMPEG and EXIFTOOL.
 
 DOWNLOAD:
 
-Download Converter.exe in upper box.
+Download Converter.exe in upper box or https://github.com/RE-MO-SH/Simple-GUI-FFMPEG/raw/main/Converter.exe.
