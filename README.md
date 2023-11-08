@@ -8,5 +8,5 @@ Convert sound and change bitrate for decreasing volume.
 change farsi numbers in name of file with F2E No. buttom.
 checked Code checkedbox for print code of FFMPEG.
 In this code is used FFMPEG and EXIFTOOL.
-FFMPEG: https://github.com/FFmpeg/FFmpeg
-EXIFTOOL: https://github.com/exiftool/exiftool
+#FFMPEG: https://github.com/FFmpeg/FFmpeg
+#EXIFTOOL: https://github.com/exiftool/exiftool
