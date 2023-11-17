@@ -1,7 +1,7 @@
 # Simple-GUI-FFMPEG
   
 
-This app is a simple code for convenient using of FFMAPEG and EXIFTOOL.
+This app is a simple code for convenient using of FFMPEG and EXIFTOOL.
 
 Easy convert video, image and sound.
 
